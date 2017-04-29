@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Hunters, 
+
+Here is Arjun. Very new to this git version control.
